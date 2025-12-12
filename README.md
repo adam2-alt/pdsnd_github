@@ -9,6 +9,17 @@
 This project explores US bikeshare data for three major U.S. cities and allows
 the user to interactively filter the data and see descriptive statistics.
 
+## How to Run
+
+1. Make sure you have Python 3 installed.
+2. Install the required libraries:
+   - pandas
+   - numpy
+3. Place the city data CSV files in the same folder as `bikeshare.py`.
+4. Run the script:
+
+```bash
+python bikeshare.py
 
 ### Files used
 Include the files used
