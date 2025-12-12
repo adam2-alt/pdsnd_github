@@ -200,7 +200,7 @@ def main():
         user_stats(df)
 
         raw = input(
-            'Would you like to see 5 rows of raw data? Enter yes or no: '
+            'Would you like to see 10 rows of raw data? Enter yes or no: '
         ).lower()
         start = 0
         while raw == 'yes':
