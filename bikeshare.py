@@ -13,6 +13,11 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
+# ---------------------------------------------
+# User input and data loading helper functions
+# ---------------------------------------------
+
+
 def get_filters():
 <<<<<<< HEAD
     
