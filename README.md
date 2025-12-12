@@ -15,3 +15,6 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+## Project Overview
+
+This project analyzes US bikeshare data for three cities. The user can filter by city, month, and day of week to see statistics about travel times, stations, and users.
