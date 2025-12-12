@@ -6,7 +6,9 @@
 ### Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+This project explores US bikeshare data for three major U.S. cities and allows
+the user to interactively filter the data and see descriptive statistics.
+
 
 ### Files used
 Include the files used
